@@ -1,0 +1,2 @@
+# FactoryMethodDesginPatternV2
+DesginPattern
